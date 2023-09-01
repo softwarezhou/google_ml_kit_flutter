@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   google_mlkit_commons: 
-    path: ../google_mlkit_commons
-
+    path: ./google_mlkit_commons
+    
 dev_dependencies:
   flutter_test:
     sdk: flutter
